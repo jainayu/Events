@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1027941682026",
+    "firebase_url": "https://events-baf08.firebaseio.com",
+    "project_id": "events-baf08",
+    "storage_bucket": "events-baf08.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1027941682026:android:2b8bac8534db2b88",
+        "android_client_info": {
+          "package_name": "com.example.user.events"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1027941682026-pgh5alj2q37ahnm2jcocgkdpm06p3ked.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYrigX5xhU86hqMCg-wnPNspUW0sTI8sk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
